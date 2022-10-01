@@ -11,6 +11,26 @@
       "organizer": "Kat Laydee"
     },
     {
+      "id": 256,
+      "category": "meal",
+      "title": "Train Gardening",
+      "description": "Join us as we train to the community edible plants.",
+      "location": "Pesca City",
+      "date": "March 24, 2022",
+      "time": "11:00",
+      "organizer": "Pipo Pollin"
+    },
+    {
+      "id": 356,
+      "category": "tech",
+      "title": "Exercise Gardening",
+      "description": "Build us as we tend to the community edible plants.",
+      "location": "New York City",
+      "date": "April 14, 2022",
+      "time": "20:00",
+      "organizer": "Vicky Prin"
+    },
+    {
       "id": 456,
       "category": "food",
       "title": "Community Gardening",
